@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/NGO_Minimal_Setup/NGO_Setup.unity
     guid: e254068e4f652024bbf0136a6cbf734f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lobby.unity
     guid: 19da20deb82b33c4c80a99c2d77ea48e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Steam.unity
     guid: 5e0bab06dc695e14da6ca6b6352c9e27
   - enabled: 1
